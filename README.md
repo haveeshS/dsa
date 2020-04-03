@@ -1,7 +1,7 @@
 # dsa
 The files for project of the course 'Data Science Analysis' at IIT Hyderabad 
 
-An explanation and algorithm for Hamiltonian Monte Carlo (HMC) can be found on DSA_report.pdf
+An explanation and algorithm for Hamiltonian Monte Carlo (HMC) can be found on report_hmc.pdf
 
 Applications of HMC are explained through three examples. 
 
